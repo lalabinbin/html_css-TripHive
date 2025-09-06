@@ -54,7 +54,7 @@
   border-radius: 5px;
   padding: 13px 50px;
   background-color: #000000;
-  color: #ffffff;
+  color: rgba(255, 255, 255, 1);
 }
 .hero {
   display: grid;
@@ -103,7 +103,7 @@
   justify-content: center;
   align-items: center;
   max-width: 1024px;
-  background-color: bisque;
+  background-color: #ffffff;
   border-radius: 10px;
 }
 .search-content {
@@ -118,7 +118,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   gap: 11.5px;
 }
 .search-element label {
